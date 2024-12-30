@@ -1,8 +1,0 @@
-Id. de aplicación (cliente): a83124c5-1fcd-4257-a3d1-eee40781ae2a
-
-
-Identificador de objeto: b2feaabe-43b4-4114-b426-8f16184cc58f
-
-
-
-Id. de directorio (inquilino): 75874581-e47b-417e-9965-07fd33fb56bc
