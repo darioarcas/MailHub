@@ -221,7 +221,7 @@ const ProfileContent = () => {
                 {respuestaMensajes && respuestaMensajes.map(item=>{
                     return <div className='mb-5'>
                         <div className="card text-bg-dark tarjeta">
-                            <img src="/img/fondo-1.jpg" className="mensaje-tarjeta card-img opacity-50" alt="fondo de mensaje"/>
+                            <img src={`${import.meta.env.BASE_URL}img/fondo-1.jpg`} className="mensaje-tarjeta card-img opacity-50" alt="fondo de mensaje"/>
                             {/* <div className=' mensaje-tarjeta card-img'/> */}
                             <div className="card-img-overlay">
                                 <h5 className="card-title">{item.from.emailAddress.name}</h5>
