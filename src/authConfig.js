@@ -15,7 +15,7 @@ export const msalConfig = {
     auth: {
         clientId: "a83124c5-1fcd-4257-a3d1-eee40781ae2a",
         authority: "https://login.microsoftonline.com/consumers",
-        redirectUri: "http://localhost:5173/",
+        redirectUri: "https://darioarcas.github.io/MailHub/", //  http://localhost:5173/
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
