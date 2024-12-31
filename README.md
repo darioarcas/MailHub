@@ -3,12 +3,12 @@
 
 # Tecnologías
 
-· HTML
-· CSS
-· JavaScript
-· React
-· Bootstrap
-· Vite
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+- Vite
 
 
 # Uso
@@ -24,6 +24,10 @@ Esta aplicación está realizada con la API brindada por Microsoft `Microsoft Gr
 
 
 # Documentación
+
+
+Creación de una aplicación de página única de React y preparación para la autenticación:
+https://learn.microsoft.com/es-es/entra/identity-platform/tutorial-single-page-app-react-prepare-spa?tabs=visual-studio
 
 
 Aplicación de página única: Adquisición de un token para llamar a una API:
